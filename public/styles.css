@@ -25,7 +25,7 @@ input {
   margin: 10px auto; /*Dois elementos TOP, BOTTOM, 4 elementos TOP, RIGHT, BOTTOM e LEFT */
   padding: 10px;
   border-radius: 16px;
-  text-align: center;
+  text-align: left;
 }
 
 button {
