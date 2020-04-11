@@ -16,7 +16,7 @@
       <button type="submit">Enviar</button>
     </form>
     <script type="text/javascript">
-      var socket = io("https://fmlychat.herokuapp.com");
+      var socket = io("http://localhost:3000");
 
       function renderMessage(message) {
         $(".messages").append(
